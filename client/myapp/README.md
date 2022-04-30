@@ -1,0 +1,3 @@
+# Styling Convention
+
+main color:

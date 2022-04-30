@@ -1,0 +1,17 @@
+.bg-myColor {
+  background-color: #38d9a9;
+}
+.navbar-brand img {
+  width: 50px;
+  margin-top: -7px;
+  margin-bottom: -7px;
+  margin-left: 10px;
+}
+
+.container-fluid {
+  width: 500px;
+}
+
+.btn {
+  background-color: #38d9a9;
+}
